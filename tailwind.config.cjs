@@ -9,11 +9,9 @@ module.exports = {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkmode: "class",
   theme: {
     extend: {},
-    colors: {
-      272727: current,
-    },
   },
   plugins: [],
 }
